@@ -28,6 +28,3 @@ git clone <https://github.com/BolodevGoyary/Frontend-Experiment3>
 ## Output Preview
 - Desktop view: full navigation bar
 - Mobile view: hamburger menu with slide-out navigation panel
-
-## Author
-Bolodev Goyary
